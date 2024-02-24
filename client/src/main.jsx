@@ -10,8 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-7to0qoyfobe46fwl.us.auth0.com"
       clientId="0A7GfhaZNZp6aU8MpxJ42EzbOiUFc7NC"
       authorizationParams={{
-        redirect_uri:
-          "https://real-estate-mern-frontend-1m93mn91d-shrikant-ramanis-projects.vercel.app",
+        redirect_uri: "https://real-estate-mern-frontend-fawn.vercel.app/",
       }}
       audience="http://localhost:8000"
       scope="openid profile email"
